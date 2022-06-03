@@ -1,6 +1,6 @@
 ﻿# CookieCats
 
-Example of mobe game A/B test analysis. AD postponed from level 30 (A variant) to level 40 (B variant).
+Example of mobile game A/B test analysis. AD postponed from level 30 (A variant) to level 40 (B variant).
 
 ## Dataset:
 - userid - A unique number that identifies each player.
